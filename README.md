@@ -26,4 +26,8 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Result
 
+Thus, the correlation coefficient and regression line (Y on X) were calculated successfully, and the scatter plot with the regression line was obtained.
+
 # Output 
+
+<img width="777" height="581" alt="image" src="https://github.com/user-attachments/assets/6df6381f-47ac-4c2a-ae2f-4af12bc03638" />
